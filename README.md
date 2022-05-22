@@ -141,7 +141,7 @@ Once completed, you can run `pip list` to list all the packages installed in the
 
 ### Create a `.env` File :lock:
 
-The project should have a `.env` file to store the environment secrets. You may a create a file named `.env` (no extensions) directly in your project root folder either from the GUI File Explorer (Windows) or from your CLI (Mac/Linux) with `touch .env`.
+The project should have a `.env` file to store the environment secrets. You may create a file named `.env` (no extensions) directly in your project root folder either from the GUI File Explorer (Windows) or from your CLI (Mac/Linux) with `touch .env`.
 
 Paste the contents of the `.env` file as shared securely directly into the file and save it.
 
